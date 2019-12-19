@@ -1,0 +1,3 @@
+# Beacon.srv
+uint8 beacon_id
+---
